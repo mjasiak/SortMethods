@@ -1,0 +1,14 @@
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\bin\Debug\netcoreapp2.2\SortMethods.ConsoleApp.deps.json
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\bin\Debug\netcoreapp2.2\SortMethods.ConsoleApp.runtimeconfig.json
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\bin\Debug\netcoreapp2.2\SortMethods.ConsoleApp.runtimeconfig.dev.json
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\bin\Debug\netcoreapp2.2\SortMethods.ConsoleApp.dll
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\bin\Debug\netcoreapp2.2\SortMethods.ConsoleApp.pdb
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\obj\Debug\netcoreapp2.2\SortMethods.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\obj\Debug\netcoreapp2.2\SortMethods.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\obj\Debug\netcoreapp2.2\SortMethods.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\obj\Debug\netcoreapp2.2\SortMethods.ConsoleApp.AssemblyInfo.cs
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\obj\Debug\netcoreapp2.2\SortMethods.ConsoleApp.dll
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\obj\Debug\netcoreapp2.2\SortMethods.ConsoleApp.pdb
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\bin\Debug\netcoreapp2.2\SortMethods.Core.dll
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\bin\Debug\netcoreapp2.2\SortMethods.Core.pdb
+C:\Users\jasio\Documents\SortMethods\SortMethods.ConsoleApp\obj\Debug\netcoreapp2.2\SortMethods.ConsoleApp.csproj.CopyComplete

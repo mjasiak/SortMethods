@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\jasio\\Documents\\SortMethods\\SortMethods.Core\\SortMethods.Core.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
