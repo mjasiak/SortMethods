@@ -1,9 +1,0 @@
-C:\Users\jasio\Documents\SortMethods\SortMethods.Core\obj\Debug\netstandard2.0\SortMethods.Core.csprojAssemblyReference.cache
-C:\Users\jasio\Documents\SortMethods\SortMethods.Core\obj\Debug\netstandard2.0\SortMethods.Core.csproj.CoreCompileInputs.cache
-C:\Users\jasio\Documents\SortMethods\SortMethods.Core\obj\Debug\netstandard2.0\SortMethods.Core.AssemblyInfoInputs.cache
-C:\Users\jasio\Documents\SortMethods\SortMethods.Core\obj\Debug\netstandard2.0\SortMethods.Core.AssemblyInfo.cs
-C:\Users\jasio\Documents\SortMethods\SortMethods.Core\bin\Debug\netstandard2.0\SortMethods.Core.deps.json
-C:\Users\jasio\Documents\SortMethods\SortMethods.Core\bin\Debug\netstandard2.0\SortMethods.Core.dll
-C:\Users\jasio\Documents\SortMethods\SortMethods.Core\bin\Debug\netstandard2.0\SortMethods.Core.pdb
-C:\Users\jasio\Documents\SortMethods\SortMethods.Core\obj\Debug\netstandard2.0\SortMethods.Core.dll
-C:\Users\jasio\Documents\SortMethods\SortMethods.Core\obj\Debug\netstandard2.0\SortMethods.Core.pdb

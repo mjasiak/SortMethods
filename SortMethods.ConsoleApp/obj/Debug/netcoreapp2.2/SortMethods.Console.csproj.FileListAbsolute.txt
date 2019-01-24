@@ -1,4 +1,0 @@
-C:\Users\jasio\Documents\SortMethods\SortMethods.Console\obj\Debug\netcoreapp2.2\SortMethods.Console.csprojAssemblyReference.cache
-C:\Users\jasio\Documents\SortMethods\SortMethods.Console\obj\Debug\netcoreapp2.2\SortMethods.Console.csproj.CoreCompileInputs.cache
-C:\Users\jasio\Documents\SortMethods\SortMethods.Console\obj\Debug\netcoreapp2.2\SortMethods.Console.AssemblyInfoInputs.cache
-C:\Users\jasio\Documents\SortMethods\SortMethods.Console\obj\Debug\netcoreapp2.2\SortMethods.Console.AssemblyInfo.cs
